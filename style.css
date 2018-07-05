@@ -1,0 +1,11 @@
+	/*	Set border to article element in black solid in 1px width, set height as 100px.*/
+	article { 
+		border: 1px solid black;
+		height: 100px;
+	}
+	/*Add any logo and set the width and height to 50px*/
+	img {
+		height: 50px; 
+		width: 50px;
+		margin-top: 20px;
+	}
